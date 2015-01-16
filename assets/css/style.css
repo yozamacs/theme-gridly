@@ -2052,6 +2052,7 @@ hr.large {
   width: auto;
   padding: 20px;
   overflow: hidden;
+  background-color: #d8f7f7;
 }
 .post-content ul,
 .post-content ol,
