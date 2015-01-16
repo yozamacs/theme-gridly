@@ -2052,7 +2052,11 @@ hr.large {
   width: auto;
   padding: 20px;
   overflow: hidden;
-  background-color: #edfbfb;
+  background-color: #d8f7f7;
+}
+
+.post-content:hover {
+  background-color: #d8f7d8;
 }
 .post-content ul,
 .post-content ol,
